@@ -18,5 +18,5 @@
 
 <div align="center">
  <h2>Результат работы скрипта</h2>
- <img src="https://raw.githubusercontent.com/Kupriyashin/DEFINITION-OF-THE-RYDBERG-CONSTANT/main/sOeNyoQCknE.jpg?token=GHSAT0AAAAAACBT7MCXZA2C3JWYU5KHMEOWZCDVIEA" />
+ <img src="https://github.com/Kupriyashin/DEFINITION-OF-THE-RYDBERG-CONSTANT/blob/5a6f67ec83911374547b011c7a51ff640db20122/sOeNyoQCknE.jpg" />
 </div>
