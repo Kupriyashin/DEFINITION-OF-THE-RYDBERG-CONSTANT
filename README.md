@@ -16,3 +16,7 @@
 
 ***Постоянная Ридберга** — фундаментальная физическая постоянная, используемая в формулах для расчёта уровней энергии и частот излучения атомов. Введена шведским учёным Йоханнесом Робертом Ридбергом в 1890 году при изучении спектров излучения атомов.
 
+<div align="center">
+ <h2>Результат работы скрипта</h2>
+ <img src="https://raw.githubusercontent.com/Kupriyashin/DEFINITION-OF-THE-RYDBERG-CONSTANT/main/sOeNyoQCknE.jpg?token=GHSAT0AAAAAACBT7MCXZA2C3JWYU5KHMEOWZCDVIEA" />
+</div>
